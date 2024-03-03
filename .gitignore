@@ -23,3 +23,6 @@ go.work
 main
 
 *.iml
+
+# ChatGPT apikey
+apikey.txt
